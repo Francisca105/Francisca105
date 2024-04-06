@@ -1,0 +1,44 @@
+{
+    "name": {
+        "all": ["Francisca", "Vicente", "de", "Almeida"],
+        "first": "Francisca",
+        "last": "Almeida",
+        "full": "Francisca Vicente de Almeida",
+        "aka": "Francisca.105"
+    },
+    "birth": {
+        "date": {
+            "day": 15,
+            "month": 9,
+            "year": 2004,
+            "full": "15th September 2004"
+        },
+        "place": {
+            "city": "Lisbon",
+            "country": "Portugal",
+            "full": "Lisbon, Portugal"
+        }
+    },
+    "contact": {
+        "email": "franciscaalmeida023@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/francisca-105-almeida/"
+    },
+    "links": {
+        "website": "https://francisca105.github.io/portfolio/",
+        "github": "https://github.com/Francisca105/",
+        "social": {
+            "youtube": "https://www.youtube.com/@Francisca.105",
+            "discord": "https://discord.gg/jUnu8gD",
+            "instagram": "https://www.instagram.com/francisca.105/",
+            "spotify": "https://open.spotify.com/user/21owtmjpw6zx5jmywjikjkjji?si=f10695935a0f4425",
+            "facebook": "https://www.facebook.com/profile.php?id=100009988847969",
+            "twitter": "https://twitter.com/105Francisca",
+            "tiktok": "https://www.tiktok.com/@francisca.105"
+        },
+        "donations": {
+            "buymeacoffee": "https://buymeacoffee.com/francisca105",
+            "paypal": "https://www.paypal.com/paypalme/francisca105"
+        }
+    },
+    "_comment": "Everything related with experience, skills, projects, etc. should be extracted from linkedin, cv and/or github"
+}
