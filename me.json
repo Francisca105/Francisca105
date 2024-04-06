@@ -1,6 +1,11 @@
 {
     "name": {
-        "all": ["Francisca", "Vicente", "de", "Almeida"],
+        "all": [
+            "Francisca",
+            "Vicente",
+            "de",
+            "Almeida"
+        ],
         "first": "Francisca",
         "last": "Almeida",
         "full": "Francisca Vicente de Almeida",
@@ -39,6 +44,374 @@
             "buymeacoffee": "https://buymeacoffee.com/francisca105",
             "paypal": "https://www.paypal.com/paypalme/francisca105"
         }
+    },
+    "skills": {
+        "hard": {
+            "languages": [
+                {
+                    "name": "Portuguese",
+                    "level": "Native"
+                },
+                {
+                    "name": "English",
+                    "level": "C1"
+                },
+                {
+                    "name": "Spanish",
+                    "level": "B2"
+                }
+            ],
+            "programming": {
+                "languages": [
+                    {
+                        "name": "JavaScript",
+                        "level": "Expert",
+                        "learning": {
+                            "since": 2018
+                        },
+                        "related": {
+                            "enviroments": [
+                                {
+                                    "name": "Node.js",
+                                    "level": "Expert",
+                                    "start": 2019
+                                },
+                                {
+                                    "name": "Web Browser",
+                                    "level": "Intermediate",
+                                    "start": 2018
+                                }
+                            ],
+                            "frameworks": [
+                                {
+                                    "name": "Express",
+                                    "level": "Advanced",
+                                    "start": 2020
+                                },
+                                {
+                                    "name": "Adonis.js",
+                                    "level": "Intermediate",
+                                    "start": 2021
+                                }
+                            ],
+                            "libraries": [
+                                {
+                                    "name": "P5.js",
+                                    "level": "Basic",
+                                    "start": 2024,
+                                    "university": true
+                                }
+                            ],
+                            "databases": [
+                                "MongoDB",
+                                "MySQL"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "TypeScript",
+                        "level": "Advanced",
+                        "learning": {
+                            "since": 2022
+                        },
+                        "related": {
+                            "enviroments": [
+                                {
+                                    "name": "TSC",
+                                    "_comment": "Typescript Compiler",
+                                    "level": "Beginner",
+                                    "start": 2022
+                                }
+                            ],
+                            "frameworks": [
+                                {
+                                    "name": "Adonis-ts",
+                                    "level": "Intermediate",
+                                    "start": 2022
+                                }
+                            ],
+                            "libraries": [
+                                {
+                                    "name": "Discord.js",
+                                    "level": "Expert",
+                                    "start": 2022,
+                                    "versions": [
+                                        "13",
+                                        "14"
+                                    ]
+                                }
+                            ],
+                            "databases": [
+                                "MongoDB",
+                                "MySQL"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "Python",
+                        "level": "Advanced",
+                        "learning": {
+                            "since": 2022,
+                            "university": true
+                        }
+                    },
+                    {
+                        "name": "CSS",
+                        "level": "Basic",
+                        "learning": {
+                            "since": 2018
+                        }
+                    },
+                    {
+                        "name": "Java",
+                        "level": "Intermediate",
+                        "learning": {
+                            "since": 2023,
+                            "university": true
+                        }
+                    },
+                    {
+                        "name": "C",
+                        "level": "Advanced",
+                        "learning": {
+                            "since": 2023,
+                            "university": true
+                        }
+                    },
+                    {
+                        "name": "C++",
+                        "level": "Basic",
+                        "learning": {
+                            "since": 2023,
+                            "university": true
+                        }
+                    },
+                    {
+                        "name": "PHP",
+                        "level": "Beginner",
+                        "learning": {
+                            "since": 2021
+                        }
+                    },
+                    {
+                        "name": "Prolog",
+                        "level": "Beginner",
+                        "learning": {
+                            "since": 2022,
+                            "university": true
+                        }
+                    },
+                    {
+                        "name": "Assembly",
+                        "_comment": "PEPE-16",
+                        "level": "Beginner",
+                        "learning": {
+                            "since": 2023,
+                            "university": true
+                        }
+                    }
+                ],
+                "template_engines": [
+                    {
+                        "name": "EJS",
+                        "level": "Expert",
+                        "start": 2020
+                    },
+                    {
+                        "name": "Edge",
+                        "_comment": "Used with Adonis.js",
+                        "level": "Intermediate",
+                        "start": 2021
+                    }
+                ],
+                "markup_languages": [
+                    {
+                        "name": "Markdown",
+                        "level": "Expert",
+                        "start": 2020
+                    },
+                    {
+                        "name": "HTML",
+                        "level": "Intermediate",
+                        "start": 2018
+                    }
+                ],
+                "data_serialization": [
+                    {
+                        "name": "JSON",
+                        "level": "Expert",
+                        "start": 2018
+                    },
+                    {
+                        "name": "YAML",
+                        "_comment": "YML is another name for YAML",
+                        "level": "Intermediate",
+                        "start": 2022
+                    }
+                ],
+                "version_control": [
+                    {
+                        "name": "Git",
+                        "level": "Advanced",
+                        "start": 2020
+                    },
+                    {
+                        "name": "GitHub",
+                        "level": "Advanced",
+                        "start": 2020
+                    },
+                    {
+                        "name": "GitLab",
+                        "level": "Advanced",
+                        "start": 2022
+                    }
+                ],
+                "package_managers": [
+                    {
+                        "name": "npm",
+                        "level": "Expert",
+                        "start": 2019
+                    },
+                    {
+                        "name": "yarn",
+                        "level": "Beginner",
+                        "start": 2024
+                    }
+                ],
+                "databases": {
+                    "sql": [
+                        {
+                            "name": "MySQL",
+                            "level": "Advanced",
+                            "start": 2020
+                        }
+                    ],
+                    "nosql": [
+                        {
+                            "name": "MongoDB",
+                            "level": "Intermediate",
+                            "start": 2022
+                        },
+                        {
+                            "name": "Firebase",
+                            "level": "Beginner",
+                            "start": 2024,
+                            "university": true
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "MongoDB Compass",
+                            "level": "Beginner",
+                            "start": 2024
+                        },
+                        {
+                            "name": "MySQL Workbench",
+                            "level": "Beginner",
+                            "start": 2023
+                        },
+                        {
+                            "name": "PhpMyAdmin",
+                            "level": "Expert",
+                            "start": 2019
+                        },
+                        {
+                            "name": "MongoDB Atlas",
+                            "level": "Intermediate",
+                            "start": 2022
+                        }
+                    ]
+                },
+                "code_editors": [
+                    {
+                        "name": "Visual Studio Code",
+                        "level": "Advanced",
+                        "start": 2018
+                    },
+                    {
+                        "name": "NotePad++",
+                        "level": "Basic",
+                        "start": 2018
+                    }
+                ],
+                "design_tools": [
+                    {
+                        "name": "Figma",
+                        "level": "Advanced",
+                        "start": 2024,
+                        "university": true
+                    },
+                    {
+                        "name": "Bootstrap Studio",
+                        "level": "Intermediate",
+                        "start": 2023
+                    }
+                ],
+                "development_methodologies": [
+                    {
+                        "name": "Agile",
+                        "level": "Intermediate",
+                        "start": 2023
+                    }
+                ]
+            },
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "versions": [
+                        "XP",
+                        "7",
+                        "8",
+                        "10",
+                        "11"
+                    ],
+                    "level": "Expert",
+                    "start": 2014
+                },
+                {
+                    "name": "Linux",
+                    "versions": [
+                        {
+                            "name": "Ubuntu",
+                            "versions": [
+                                "16",
+                                "18",
+                                "20",
+                                "22"
+                            ]
+                        },
+                        {
+                            "name": "Debian",
+                            "versions": [
+                                "12"
+                            ]
+                        },
+                        {
+                            "name": "Caixa Mágica",
+                            "versions": [
+                                "23"
+                            ]
+                        }
+                    ],
+                    "level": "Intermediate",
+                    "start": 2008
+                },
+                {
+                    "name": "macOS",
+                    "level": "Beginner",
+                    "start": 2022
+                }
+            ]
+        },
+        "soft": [
+            "Teamwork",
+            "Communication",
+            "Problem-solving",
+            "Work ethic",
+            "Goal setting",
+            "Brainstorming"
+        ],
+        "_comment": "TODO: Finish soft skills"
     },
     "_comment": "Everything related with experience, skills, projects, etc. should be extracted from linkedin, cv and/or github"
 }
