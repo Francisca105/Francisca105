@@ -424,5 +424,96 @@
         ],
         "_comment": "TODO: Finish soft skills"
     },
+    "education": [
+        {
+            "institution": "Instituto Ciências Educativas",
+            "degree": "Ensino Secundário",
+            "location": "Lisbon, Portugal",
+            "name": "Ciências e Tecnologias",
+            "start": 2019,
+            "end": 2022,
+            "average": 0,
+            "summer_programs": [
+                {
+                    "name": "IJ-GAME DEVELOPER - Cria os teus próprios vídeo jogos",
+                    "institution": "Rumos",
+                    "location": "Lisbon, Portugal",
+                    "certificate": "https://drive.google.com/file/d/1VPNA_C7iCIaUcaNowzGm-s4_gVe7M-Vd/view?usp=sharing",
+                    "year": 2018
+                },
+                {
+                    "name": "Tecnologia e ferramentas digitais na produção de conhecimento em ciências sociais",
+                    "institution": "Ciência Viva",
+                    "location": "Lisbon, Portugal",
+                    "certificate": "https://drive.google.com/file/d/1wmVyrLNnoQav7nvJxb97ezJZtMajrCLB/view?usp=sharing",
+                    "year": 2019
+                },
+                {
+                    "name": "Verão U-Lisboa",
+                    "institution": "Instituto Superior Técnico",
+                    "location": "Lisbon, Portugal",
+                    "certificate": "https://drive.google.com/file/d/1AxiflUii85Udxj7qM9_NsfU7E3BbpBx0/view?usp=sharing",
+                    "year": 2022
+                }
+            ],
+            "achievements": [
+                {
+                "achievement": "Quadro de Excelência",
+                "certificate": "https://drive.google.com/file/d/1_NwofqEfm5dztKlsqn093TeEk7S0QUhP/view?usp=sharing",
+                "year": 2022
+                }
+            ],
+            "_comment": "Scored 19.9/20 in the mathematics exam."
+        },
+        {
+            "institution": "Instituto Superior Técnico",
+            "degree": "Licenciatura",
+            "location": "Lisbon, Portugal",
+            "start": 2022,
+            "end": 2025,
+            "name": "Licenciatura em Engenharia Informática e de Computadores",
+            "acronym": "LEIC-A",
+            "extracurricular_activities": [
+                {
+                    "activity": "Year Delegate",
+                    "certificate": "https://drive.google.com/file/d/1y2WAVmZ80BiPZUhoaAhGNP1yP_79DPqp/view?usp=sharing",
+                    "start": 2022,
+                    "end": 2023
+                },
+                {
+                    "activity": "Mentor",
+                    "certificate": "https://drive.google.com/file/d/1sbH6EVwmrPaoF9IMWU3RIv4PmvGYMu4n/view?usp=sharing",
+                    "start": 2023,
+                    "end": 2024
+                },
+                {
+                    "activity": "Year Delegate",
+                    "certificate": "",
+                    "start": 2023,
+                    "end": 2024,
+                    "_comment": "Elected as delegate with the highest number of votes among all courses at the college (https://conselhopedagogico.tecnico.ulisboa.pt/delegados/ano-letivo-2023-2024/#elei2324)."
+                },
+                {
+                    "activity": "WEB.DEV@AeroTéc",
+                    "certificate": "",
+                    "start": 2023,
+                    "end": ""
+                },
+                {
+                    "activity": "RED@AeroTéc",
+                    "certificate": "",
+                    "start": 2023,
+                    "end": ""
+                },
+                {
+                    "activity": "Dev-Team@NEIIST",
+                    "certificate": "",
+                    "start": 2024,
+                    "end": ""
+                }
+            ],            
+            "average": 0
+        }
+    ], 
     "_comment": "Everything related with experience, skills, projects, etc. should be extracted from linkedin, cv and/or github"
 }
