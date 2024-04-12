@@ -6,11 +6,8 @@ My [portfolio](https://francisca105.github.io/portfolio/) showcases a range of p
 I'm committed to **pushing the boundaries of what technology can achieve**.
 
 - 🔭 I’m currently working on *freelancing*. 
-- 🌱 I’m currently learning *P5.js*
+- 🌱 I’m currently learning *Next.js*
 - 📫 How to reach me: *franciscaalmeida023@gmail.com*
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Francisca105)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisca-105-almeida/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCm78HT3WnIvptEJw1LxSd6g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://francisca105.github.io/portfolio/)  
 
 
 # Stats
