@@ -24,6 +24,18 @@
             "full": "Lisbon, Portugal"
         }
     },
+    "driving_license": [
+        {
+            "category": "B",
+            "extra": "B1",
+            "date": {
+                "day": 3,
+                "month": 11,
+                "year": 2023,
+                "full": "3th November 2023"
+            }
+        }
+    ],
     "contact": {
         "email": "franciscaalmeida023@gmail.com",
         "linkedin": "https://www.linkedin.com/in/francisca-105-almeida/"
@@ -511,9 +523,9 @@
                     "start": 2024,
                     "end": ""
                 }
-            ],            
+            ],
             "average": 0
         }
-    ], 
+    ],
     "_comment": "Everything related with experience, skills, projects, etc. should be extracted from linkedin, cv and/or github"
 }
