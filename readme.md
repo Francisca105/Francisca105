@@ -5,7 +5,7 @@ I am an ambitious 19-year-old on a journey of discovery in the world of **comput
 My [portfolio](https://francisca105.github.io/portfolio/) showcases a range of projects where I've used my [skills](https://github.com/Francisca105/Francisca105/blob/61ddd0fc4460285bb6b133cbfeda5e3a9c033d89/me.json#L60) to create solutions that resonate with real-world needs. Whether it's developing user-friendly interfaces, **architecting seamless and efficient backend solutions** or collaborating with fellow developers.
 I'm committed to **pushing the boundaries of what technology can achieve**.
 
-- 🔭 I’m currently working on *freelancing*. 
+- 🔭 I’m currently working with **MicroHarvest** 🍃. 
 - 🌱 I’m currently learning *Next.js*
 - 📫 How to reach me: *franciscaalmeida023@gmail.com*
 
