@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Francisca
 [![Me :)](https://raw.githubusercontent.com/Francisca105/Francisca105/main/me-banner.png)](https://francisca105.github.io/portfolio/)
 
-I am an ambitious 19-year-old on a journey of discovery in the world of **computer science and engineering**. Currently a student at [Instituto Superior Técnico](https://github.com/Francisca105/ist-leic-a).
+I am an ambitious 20-year-old on a journey of discovery in the world of **computer science and engineering**. Currently a student at [Instituto Superior Técnico](https://github.com/Francisca105/ist-leic-a).
 My [portfolio](https://francisca105.github.io/portfolio/) showcases a range of projects where I've used my [skills](https://github.com/Francisca105/Francisca105/blob/61ddd0fc4460285bb6b133cbfeda5e3a9c033d89/me.json#L60) to create solutions that resonate with real-world needs. Whether it's developing user-friendly interfaces, **architecting seamless and efficient backend solutions** or collaborating with fellow developers.
 I'm committed to **pushing the boundaries of what technology can achieve**.
 
