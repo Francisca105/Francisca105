@@ -13,10 +13,8 @@
     },
     "birth": {
         "date": {
-            "day": 15,
-            "month": 9,
-            "year": 2004,
-            "full": "15th September 2004"
+            "raw": "2004-09-15",
+            "display": "15th September 2004"
         },
         "place": {
             "city": "Lisbon",
@@ -29,10 +27,8 @@
             "category": "B",
             "extra": "B1",
             "date": {
-                "day": 3,
-                "month": 11,
-                "year": 2023,
-                "full": "3th November 2023"
+                "raw": "2023-11-03",
+                "display": "3rd November 2023"
             }
         }
     ],
@@ -104,6 +100,16 @@
                                     "name": "Adonis.js",
                                     "level": "Intermediate",
                                     "start": 2021
+                                },
+                                {
+                                    "name": "Next.js",
+                                    "level": "Advanced",
+                                    "start": 2024
+                                },
+                                {
+                                    "name": "React",
+                                    "level": "Advanced",
+                                    "start": 2024
                                 }
                             ],
                             "libraries": [
@@ -138,7 +144,7 @@
                             "since": 2022
                         },
                         "related": {
-                            "enviroments": [
+                            "environments": [
                                 {
                                     "name": "TSC",
                                     "_comment": "Typescript Compiler",
@@ -151,6 +157,11 @@
                                     "name": "Adonis-ts",
                                     "level": "Intermediate",
                                     "start": 2022
+                                },
+                                {
+                                    "name": "Next.js",
+                                    "level": "Advanced",
+                                    "start": 2024
                                 }
                             ],
                             "libraries": [
@@ -176,11 +187,20 @@
                         "learning": {
                             "since": 2022,
                             "university": true
+                        },
+                        "related": {
+                            "frameworks": [
+                                {
+                                    "name": "FastAPI",
+                                    "level": "Intermediate",
+                                    "start": 2024
+                                }
+                            ]
                         }
                     },
                     {
                         "name": "CSS",
-                        "level": "Basic",
+                        "level": "Intermediate",
                         "learning": {
                             "since": 2018
                         }
@@ -191,6 +211,16 @@
                         "learning": {
                             "since": 2023,
                             "university": true
+                        },
+                        "related": {
+                            "frameworks": [
+                                {
+                                    "name": "Spring Boot",
+                                    "level": "Beginner",
+                                    "start": 2025,
+                                    "university": true
+                                }
+                            ]
                         }
                     },
                     {
@@ -307,6 +337,11 @@
                             "name": "MySQL",
                             "level": "Advanced",
                             "start": 2020
+                        },
+                        {
+                            "name": "PostgreSQL",
+                            "level": "Intermediate",
+                            "start": 2024
                         }
                     ],
                     "nosql": [
@@ -376,6 +411,20 @@
                         "level": "Intermediate",
                         "start": 2023
                     }
+                ],
+                "containerization": [
+                    {
+                        "name": "Docker",
+                        "level": "Intermediate",
+                        "start": 2024
+                    }
+                ],
+                "analytics_tools": [
+                    {
+                        "name": "Grafana",
+                        "level": "Intermediate",
+                        "start": 2024
+                    }
                 ]
             },
             "operating_systems": [
@@ -432,9 +481,22 @@
             "Problem-solving",
             "Work ethic",
             "Goal setting",
-            "Brainstorming"
-        ],
-        "_comment": "TODO: Finish soft skills"
+            "Brainstorming",
+            "Leadership",
+            "Project management",
+            "Mentoring",
+            "Collaboration",
+            "Adaptability",
+            "Initiative",
+            "Strategic planning",
+            "Time management",
+            "Decision making",
+            "Continuous learning",
+            "Organization",
+            "Responsibility",
+            "Conflict resolution",
+            "Creativity"
+        ]
     },
     "education": [
         {
@@ -442,8 +504,11 @@
             "degree": "Ensino Secundário",
             "location": "Lisbon, Portugal",
             "name": "Ciências e Tecnologias",
-            "start": 2019,
-            "end": 2022,
+            "period": {
+                "start": "2019",
+                "end": "2022",
+                "display": "2019 - 2022"
+            },
             "average": 0,
             "summer_programs": [
                 {
@@ -475,57 +540,237 @@
                     "year": 2022
                 }
             ],
-            "_comment": "Scored 19.9/20 in the mathematics exam."
+            "highlights": [
+                "Scored 19.9/20 in the mathematics exam."
+            ]
         },
         {
             "institution": "Instituto Superior Técnico",
-            "degree": "Licenciatura",
+            "degree": "Bachelor's Degree",
             "location": "Lisbon, Portugal",
-            "start": 2022,
-            "end": 2025,
-            "name": "Engenharia Informática e de Computadores",
+            "period": {
+                "start": "2022",
+                "end": "2025",
+                "display": "2022 - 2025"
+            },
+            "name": "Computer Science and Engineering",
             "acronym": "LEIC-A",
+            "average": 0,
             "extracurricular_activities": [
                 {
                     "activity": "Year Delegate",
                     "certificate": "https://drive.google.com/file/d/1y2WAVmZ80BiPZUhoaAhGNP1yP_79DPqp/view?usp=sharing",
-                    "start": 2022,
-                    "end": 2023
-                },
-                {
-                    "activity": "Mentor",
-                    "certificate": "https://drive.google.com/file/d/1sbH6EVwmrPaoF9IMWU3RIv4PmvGYMu4n/view?usp=sharing",
-                    "start": 2023,
-                    "end": 2024
+                    "period": {
+                        "start": "2022-10-01",
+                        "end": "2023-06-30",
+                        "display": "October 2022 - June 2023"
+                    }
                 },
                 {
                     "activity": "Year Delegate",
                     "certificate": "",
-                    "start": 2023,
-                    "end": 2024,
-                    "_comment": "Elected as delegate with the highest number of votes among all courses at the college (https://conselhopedagogico.tecnico.ulisboa.pt/delegados/ano-letivo-2023-2024/#elei2324)."
+                    "period": {
+                        "start": "2023-10-01",
+                        "end": "2024-06-30",
+                        "display": "October 2023 - June 2024"
+                    },
+                    "highlights": "Elected as delegate with the highest number of votes among all courses at the college (https://conselhopedagogico.tecnico.ulisboa.pt/delegados/ano-letivo-2023-2024/#elei2324)."
                 },
                 {
-                    "activity": "WEB.DEV@AeroTéc",
-                    "certificate": "",
-                    "start": 2023,
-                    "end": ""
+                    "activity": "Mentor",
+                    "certificate": "https://drive.google.com/file/d/1sbH6EVwmrPaoF9IMWU3RIv4PmvGYMu4n/view?usp=sharing",
+                    "period": {
+                        "start": "2023-09-01",
+                        "end": "2024-06-30",
+                        "display": "September 2023 - June 2024"
+                    }
                 },
                 {
                     "activity": "RED@AeroTéc",
                     "certificate": "",
-                    "start": 2023,
-                    "end": ""
+                    "description": "Contributed to embedded systems development, programming microcontrollers and implementing communication protocols for data acquisition and transmission.",
+                    "period": {
+                        "start": "2023-10-01",
+                        "end": "2024-02-29",
+                        "display": "October 2023 - February 2024"
+                    },
+                    "highlights": [
+                        "As recruit for the electronics (software) division at RED, my colleague and I were tasked with a comprehensive recruitment project. Our objective was to design and create a mini flight computer along with a ground station. Throughout this project, I gained valuable insights into the realm of microcontrollers, sensors, and communication protocols, and honed my ability to collaborate effectively within a team.",
+                        "As a Software Developer in the Electronics Team at RED, I contributed to the development of embedded systems. My work involved programming microcontrollers and designing communication protocols for data acquisition and transmission. I collaborated with a multidisciplinary team to develop reliable and efficient software solutions that integrated with hardware components, ensuring system stability and performance."
+                    ]
+                },
+                {
+                    "activity": "WEB.DEV@AeroTéc",
+                    "certificate": "",
+                    "description": "As Coordinator of the Web.Dev team at AeroTéc, I led the development and strategic direction of the organization's website and digital platforms. My responsibilities included managing the recruitment and training of new team members, defining project scopes, and overseeing the implementation of new features. I was responsible for technical development, website maintenance, and content strategy, as well as managing the Microsoft Entra ID platform for team identity and access management.",
+                    "period": {
+                        "start": "2023-10-01",
+                        "end": "2025-08-31",
+                        "display": "October 2023 - August 2025"
+                    },
+                    "highlights": [
+                        "In my recruitment project, I integrated a new feature into the website: a comprehensive form system for prospective recruits to apply seamlessly. My role focused on enhancing data visualization and management for both administrators and users.",
+                        "I continued developing the recruitment project, focusing on improving the website's comprehensive form system for prospective recruits, which involved maintaining and iterating on its features, developing Front-End and Back-End components and ensuring a seamless application process for both administrators and users.",
+                        "As Coordinator of the Web.Dev team, I led a strategic approach to recruitment, team management, and digital presence. I took responsibility for the recruitment process, including training new recruits and defining project scopes. I coordinated website development, with a special focus on setting up the virtual machine for the \"Semana Aeroespecial\" website, implementing continuous updates and maintenance, including seasonal modifications such as the Christmas update.\nI organized the team structure, defining task allocation and project timelines, and actively managed team dynamics through conducting and scheduling regular meetings. Additionally, I oversaw the website content strategy and technical development, ensuring an integrated and efficient approach to the web team's objectives.\nFurthermore, I was responsible for managing the Microsoft Entra ID platform, which handles critical administrative functions including member email generation, license management, password administration, and overall identity and access management for the team."
+                    ]
                 },
                 {
                     "activity": "Dev-Team@NEIIST",
                     "certificate": "",
-                    "start": 2024,
-                    "end": ""
+                    "description": "As Coordinator of the Dev-Team at NEIIST, I led the development and maintenance of the organization's website and digital platforms. My responsibilities included improving user experience, optimizing performance, and implementing new features. I managed the team, oversaw project planning, recruitment, and strategic direction, ensuring effective collaboration and successful delivery of web solutions.",
+                    "period": {
+                        "start": "2024-03-01",
+                        "end": "2025-08-31",
+                        "display": "March 2024 - August 2025"
+                    },
+                    "highlights": [
+                        "As a member of the development team at NEIIST, I have contributed to the development and maintenance of our organization's website. My work has involved improving user experience, optimizing the website for better performance, and some chores.",
+                        "As a Coordinator, I strategically lead our team in digital project management and development, focusing on enhancing operational efficiency and user experience. My role involves conducting periodic meetings to align objectives, define priorities, and track project progress, ensuring clear and productive communication among team members. I am responsible for the recruitment and integration process of new members, carefully selecting and welcoming new talents to seamlessly integrate them into our team's dynamic.\nIn web development, I lead the maintenance and optimization of our organization's website, with special attention to user experience and technical performance. A highlight of my work was creating the merch sales page, designed to provide an intuitive experience for both users and administrators. I coordinate task definition and strategic objectives, promoting a collaborative approach that maximizes productivity and aligns with our organizational goals."
+                    ]
+                },
+                {
+                    "activity": "Dev-Team@SINFO",
+                    "certificate": "",
+                    "description": "As a member of the development team at SINFO, I contribute to the development and maintenance of our organization's website. My work involves improving user experience, optimizing the website for better performance, and some chores.",
+                    "period": {
+                        "start": "2024-05-01",
+                        "display": "May 2024 - Present"
+                    },
+                    "highlights": [
+                        "Supported Portugal's largest free tech conference by delivering innovative technological solutions and comprehensive event management.",
+                        "Contributed to the development of the conference's web application using Next.js, which handled over 1,430 users.",
+                        "Personally worked on the design and development of the venue page in Figma, creating an intuitive interface that enabled attendees to explore company stands and access detailed event information. The page allowed users to seamlessly navigate the event space, view company locations, and access comprehensive event details.",
+                        "Leveraged Grafana for event analytics, tracking attendee participation across keynotes and sessions."
+                    ],
+                    "_comment": "TODO: Add Team Leader highlights"
                 }
-            ],
-            "average": 0
+            ]
         }
     ],
-    "_comment": "Everything related with experience, skills, projects, etc. should be extracted from linkedin, cv and/or github"
+    "projects": [
+        {
+            "title": "NEIIST - Store",
+            "role": "Project Lead & Fullstack Developer",
+            "status": "maintained",
+            "description": "Developed an online merchandise store for NEIIST to support the student community, initially managing the sale of official EIC hoodies. Designed for future expansion to include stickers and other products.",
+            "technologies": [
+                "React",
+                "Create-React-App",
+                "PostgreSQL",
+                "JavaScript",
+                "Exceljs"
+            ],
+            "github": "https://github.com/Francisca105/neiist-website/tree/feature/new-shop",
+            "demo": "https://neiist.tecnico.ulisboa.pt/",
+            "period": {
+                "start": "2024-11-01",
+                "end": "2025-02-28",
+                "display": "November 2024 - February 2025"
+            },
+            "highlights": [
+                "Processed over 200 orders, demonstrating the platform's stability and scalability.",
+                "Fullstack development with React and Create-React-App",
+                "Automated order export and management using Exceljs",
+                "Stable and scalable architecture for future product expansion",
+                "PostgreSQL for reliable data persistence"
+            ],
+            "gallery": [
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/T3cb3VcNQz-pN2YUZASDoQ.png",
+                    "caption": "All orders page"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/bTTeHsyUQle4IB54MV7nNg.png",
+                    "caption": "Search orders page"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/ILS8oEK8SfCvfgFL98aeJA.png",
+                    "caption": "Order details modal"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/g0DaSSqtQ5y3eyr1cMKeVQ.png",
+                    "caption": "Order details page"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/6NfrJ739TraLOpjiOeeN2w.png",
+                    "caption": "Shop page"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/4bwBxmzqSWqRd4Eo7hFBmg.png",
+                    "caption": "Cart modal"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/bGyh0NLBRletxvE7EJf4-g.png",
+                    "caption": "Checkout page"
+                },
+                {
+                    "type": "image",
+                    "url": "https://img001.prntscr.com/file/img001/2b1gk0JrQ5a3d8c4j6e9Ww.png",
+                    "caption": "Order export modal"
+                }
+            ],
+            "university_project": false
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "MicroHarvest",
+            "position": "Data Management Intern",
+            "location": "Lisbon, Portugal",
+            "type": "Part-Time Internship",
+            "start": {
+                "day": 1,
+                "month": 8,
+                "year": 2024,
+                "full": "1st August 2024"
+            },
+            "end": {
+                "day": 30,
+                "month": 11,
+                "year": 2024,
+                "full": "30th November 2024"
+            },
+            "description": "Developed a dashboard to automate Excel creation processes with an intuitive user interface and also with a Python API integration.",
+            "technologies": [
+                "TypeScript",
+                "JSON",
+                "Next.js",
+                "React",
+                "Python",
+                "FastAPI",
+                "Docker",
+                "SQL"
+            ],
+            "highlights": [
+                "Automated Excel processes by developing a dashboard for efficient data input and management, streamlining workflows and reducing manual effort.",
+                "Designed and implemented the solution using Docker, Next.js, and SQL, ensuring scalability, efficiency, and ease of use."
+            ],
+            "certificate": "https://drive.google.com/file/d/1v9u8JojTohGrbhm1JSSS73vL3z04wwDZ/view?usp=sharing"
+        },
+        {
+            "company": "Instituto Superior Técnico @ DSI",
+            "position": "Fullstack Developer",
+            "location": "Lisbon, Portugal",
+            "type": "Scholarship",
+            "period": {
+                "start": "2025-06-01",
+                "end": "2026-05-31",
+                "display": "June 2025 - May 2026"
+            }
+        }
+    ],
+    "last_updated": {
+        "day": 25,
+        "month": 7,
+        "year": 2025,
+        "full": "25th July 2025"
+    },
+    "_comment": "Everything related with experience, skills, projects, etc. is also displayed in my linkedin page, cv and/or github"
 }
