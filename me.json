@@ -641,6 +641,17 @@
           "light": "https://skillicons.dev/icons?i=md&theme=light",
           "dark": "https://skillicons.dev/icons?i=md&theme=dark"
         }
+      },
+      {
+        "name": "Tailwind CSS",
+        "category": "Frameworks",
+        "level": "Advanced",
+        "start_year": 2024,
+        "is_featured": false,
+        "icons": {
+          "light": "https://skillicons.dev/icons?i=tailwind&theme=light",
+          "dark": "https://skillicons.dev/icons?i=tailwind&theme=dark"
+        }
       }
     ]
   }
