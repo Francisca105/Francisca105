@@ -247,7 +247,7 @@
       "technologies": ["React", "Create-React-App", "PostgreSQL", "JavaScript", "Exceljs"],
       "proof_of_competence": {
         "metrics": {
-          "orders_processed": 220
+          "badge": "220+ orders processed"
         },
         "technical": "Automated order export system using Exceljs"
       },
@@ -266,6 +266,7 @@
       "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Figma", "Grafana"],
       "proof_of_competence": {
         "metrics": {
+          "badge": "14.3k+ visits during the event month",
           "engagement": "6,000+ visits and 10,000+ page views per month",
           "analytics_impact": "Engineered a custom referral tracking system (ref query params) integrated with Grafana"
         },
